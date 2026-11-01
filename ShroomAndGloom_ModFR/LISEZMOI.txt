@@ -1,0 +1,45 @@
+=====================================================================
+  SHROOM AND GLOOM — MOD DE TRADUCTION FRANÇAISE (non officiel)
+=====================================================================
+
+Ce mod traduit l'intégralité des textes du jeu en français :
+  - interface, menus, réglages, astuces de chargement, crédits
+  - ~960 noms de cartes et ~900 descriptions/effets de cartes
+  - ennemis, intentions, statuts, malédictions
+  - monde : exploration, quêtes, dialogues, boutiques, Pénombre
+
+---------------------------------------------------------------------
+ INSTALLATION
+---------------------------------------------------------------------
+ 1. Ferme le jeu.
+ 2. Place le dossier "ShroomAndGloom_ModFR" où tu veux (idéalement dans
+    le dossier du jeu : ...\steamapps\common\Shroom and Gloom\).
+ 3. Double-clique sur installation_traduction_fr.bat.
+    Le script trouve le jeu tout seul (via Steam). Sinon, ouvre PowerShell :
+      .\scripts\install.ps1 -GameDir "D:\...\Shroom and Gloom"
+ 4. Lance le jeu. Si ton Windows est en français, le jeu peut démarrer
+    directement en français. Sinon : Options > LANGUAGE > French (fr).
+
+ Après une MISE À JOUR du jeu par Steam, relance simplement installation_traduction_fr.bat.
+
+---------------------------------------------------------------------
+ DÉSINSTALLATION
+---------------------------------------------------------------------
+ Double-clique sur desinstallation_traduction_fr.bat : les fichiers d'origine sont
+ restaurés à l'identique (sauvegarde dans "_ModFR_sauvegarde").
+ Solution de secours : Steam > clic droit sur le jeu > Propriétés >
+ Fichiers installés > Vérifier l'intégrité des fichiers du jeu.
+
+---------------------------------------------------------------------
+ NOTES DE TRADUCTION
+---------------------------------------------------------------------
+ Gunk = Crasse · Gloom / The Gloom = Pénombre · Shroom = Champi ·
+ Foresight = Prémonition · Decay = Pourriture · Warmth = Chaleur ·
+ Exhaust = Épuiser · Toasty = Croque · Run = Partie. Tutoiement.
+ Certaines phrases sont assemblées par le code à partir de fragments
+ anglais : quelques tournures peuvent rester un peu rigides.
+ Signale-les pour améliorer le mod !
+
+ Mod non officiel, sans lien avec Team Lazerbeam. Shroom and Gloom
+ appartient à ses auteurs.
+=====================================================================

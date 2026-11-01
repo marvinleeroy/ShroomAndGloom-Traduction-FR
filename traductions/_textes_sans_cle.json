@@ -1,0 +1,20 @@
+{
+ "44582876084047872": "[HEXCODE]FERA APPARAÎTRE [REINFORCEMENT_NAME]</color>",
+ "44582876142768128": "FUSÉE ÉCLAIRANTE",
+ "32470821415817216": "ENCORE À MANGER!",
+ "32470821453565952": "J'EN EXIGE PLUS!",
+ "32470821453565954": "PATHÉTIQUE! \nENCORE!",
+ "32470821457760256": "Coffre de prémonition\\n Choisis une prémonition.",
+ "32470821457760257": "Taupe curieuse\\nÉchange des comestibles contre des cartes.",
+ "32470821457760258": "Taupe guerrière\\nÉchange des crochets contre des cartes.",
+ "32470821457760259": "Coffre\\nUn choix de cartes de grande qualité.",
+ "55670645999001600": "Qu'ai-je fait!?",
+ "192804606043885568": "Les cartes Données coûtent +1 énergie à jouer.",
+ "204004805193228288": "Dégâts",
+ "204004805226782720": "La cible perdra de la vie.",
+ "206304718437638144": "Récupère 100 % de la [LINKKEY=PROPERTY_GUNK][JOINER=WORD_ON][MULTIPLICITY_CARD] et soigne-toi de [PNUM] X la quantité récupérée",
+ "221050175669276672": "Dégâts de base",
+ "221050175715414016": "Les ennemis ont plus de santé.",
+ "221050175715414017": "Si une carte inflige plus de [PNUM] [LINKKEY=WORD_BASE_DAMAGE], \ntu subis les dégâts excédentaires.",
+ "221050175727996928": "Dégâts avant application des propriétés et des statuts."
+}
