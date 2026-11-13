@@ -36,6 +36,12 @@ Quelques choix de vocabulaire : *Gunk* = **Crasse**, *The Gloom* = **la Pénombr
 *Foresight* = **Prémonition**, *Decay* = **Pourriture**, *Toasty* = **Croque**. Le jeu tutoie le joueur.
 Le glossaire complet est dans [`traductions/GLOSSAIRE.md`](traductions/GLOSSAIRE.md).
 
+## Compatibilité
+
+✅ **Compatible avec la version 0.6.74 du jeu** (mise à jour du 13 novembre 2026).
+Cette mise à jour n'a modifié aucun texte : la traduction reste complète.
+Si tu avais déjà installé le mod, relance simplement `installation_traduction_fr.bat` après la mise à jour.
+
 ## Installation
 
 > ⚠️ **Avertissement de Windows au premier lancement**
